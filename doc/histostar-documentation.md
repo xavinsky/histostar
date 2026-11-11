@@ -114,6 +114,6 @@ Le texte d'une question sert aussi de clé pour le compteur « questions les plu
 
 ## 9. Publication
 
-Dépôt GitHub `xavinsky/histostar`, publié par GitHub Pages sur https://tekio.org/histostar/. Le workflow `.github/workflows/pages.yml` génère `questions-data.js` (une erreur dans les questions bloque la publication) et publie `index.html`, les `.js` et `style.css`. Le lien « OrthoStar » de la barre du haut pointe vers `../orthostar/` : le dépôt `orthostar` doit rester à côté de celui-ci.
+Dépôt GitHub `xavinsky/histostar`, publié par GitHub Pages sur https://tekio.org/histostar/. Le workflow `.github/workflows/pages.yml` génère `questions-data.js` (une erreur dans les questions bloque la publication) et publie `index.html`, les `.js` et `style.css`. Le lien « EduStar » de la barre du haut pointe vers `../edustar/`, la page qui regroupe les cours et les jeux de révision : le dépôt `edustar` doit rester à côté de celui-ci.
 
 Les questions du chapitre 1 sont tirées du cours d'histoire du professeur (introduction, frise chronologique, carte et questions de l'introduction). Le cours lui-même n'est pas dans le dépôt.

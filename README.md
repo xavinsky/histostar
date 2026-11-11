@@ -5,7 +5,7 @@ Jeu de révision d'histoire en QCM, chapitre par chapitre. On part de 50 points 
 Chapitres :
 - Histoire, chapitre 1 : les empires de la Méditerranée au Moyen Âge (Empire byzantin, Empire carolingien, califat).
 
-En ligne : https://tekio.org/histostar/ — voir aussi [OrthoStar](https://tekio.org/orthostar/).
+En ligne : https://tekio.org/histostar/ — fait partie d'[EduStar](https://tekio.org/edustar/).
 
 ## En local
 
